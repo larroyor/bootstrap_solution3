@@ -1,0 +1,65 @@
+body {
+    background-color:aquamarine;
+}
+
+/** Header **/
+#header-nav {
+    background-color: aliceblue;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img {
+    font-size: 30px;
+}
+
+#web-home {
+    float: left;
+}
+/**
+section {
+    background-color: #817e7e;
+    border: 1px solid black;
+    float: right;
+    clear: both;
+    padding: 3px;
+    font-size: 1.25em;
+}
+**/
+p {
+    width: 90%;
+    height: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Helvetica;
+    color: black;
+    clear: both;
+    overflow: auto;
+  }
+
+  .menu-item {
+    background-color: #808080;
+    margin: 10px;
+  }
+
+  /* Menu items */
+section {
+    clear: both;
+    padding: 3px;
+    font-size: 1.5em;
+}
+
+.menu-element {
+    background-color: rgb(165, 157, 157);
+    border: 1px solid black;
+    
+}
+
+#middleMenu {
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.separate {
+    clear: both;
+}
